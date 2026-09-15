@@ -1,6 +1,6 @@
 # Run Manifest - EU Transport & Storage Cyber-Risk Analysis
 
-**Run status:** Final artefacts produced; GitHub delivery pending at manifest creation  
+**Run status:** Complete; GitHub delivery confirmed  
 **Report date:** 15 September 2026  
 **Evidence cut-off:** 15 September 2026  
 **Analysis period:** H2 2026 year to date  
@@ -58,7 +58,7 @@ The original request specified Transport & Storage but included a healthcare fin
 | Language | PASS | Deterministic checks passed for all Markdown files, visual inspection record and extracted PowerPoint text |
 | Visual | PASS | Five rendered slides inspected. Exact titles, legible text, prescribed palette, complete source lines and no clipping observed |
 | Export | PASS | PowerPoint contains five slides. PDF contains five pages. Extracted PowerPoint text passed language controls |
-| Delivery | PENDING | Commit creation and remote repository verification outstanding at manifest creation |
+| Delivery | PASS | Commit `851d2208d4339a24d5022298a8b72204f97037f7` pushed to `main`; remote `refs/heads/main` returned the same commit SHA |
 
 ## Evidence boundaries
 
@@ -66,4 +66,4 @@ No current EU Transport & Storage cyber-loss total is stated. Public evidence su
 
 ## Delivery record
 
-Delivery to the approved GitHub repository is performed after this manifest is staged. The final delivery result, commit SHA and remote verification evidence are recorded by updating this section after push. No successful delivery status is asserted before that evidence exists.
+Delivery to `cybertiagovieira/cybertiagovieira` is confirmed. Commit `851d2208d4339a24d5022298a8b72204f97037f7` was pushed to `main`, and `git ls-remote origin refs/heads/main` returned the same commit SHA. The final manifest and quality-record delivery-status update are committed as a follow-up documentation change.

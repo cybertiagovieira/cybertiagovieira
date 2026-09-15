@@ -14,7 +14,7 @@
 | Language | All text artefacts and extracted PowerPoint text pass the deterministic checks | PASS | `check_language_rules.py` and `check_language_controls.py` passed for all Markdown files, visual inspection record and `pptx-extracted-text.txt` |
 | Visual | Exactly five slides, exact titles, white/dark-text/`#00915E` design, legible labels and no clipped elements | PASS | PDF page count is five. Manual inspection of rendered slides 1 to 5 recorded no clipping, no overlap and complete source lines |
 | Export | Exported PowerPoint opens structurally and slide text is present and readable | PASS | PowerPoint contains five slide XML files and five notes parts. PDF export has five pages. Extracted text audit passed |
-| Delivery | Approved destination, transmitted files and delivery evidence confirmed | PENDING | Repository delivery and commit verification remain outstanding |
+| Delivery | Approved destination, transmitted files and delivery evidence confirmed | PASS | Commit `851d2208d4339a24d5022298a8b72204f97037f7` pushed to `main`; remote `refs/heads/main` returned the same commit SHA |
 
 ## Scope decision record
 
@@ -41,4 +41,4 @@ Rendered slides 1 to 5 were inspected after PDF export. Each slide shows the exa
 
 ## Quality status
 
-All pre-delivery gates pass. The delivery gate remains pending until the approved GitHub repository commit is created and confirmed.
+All gates pass. Delivery is confirmed by GitHub push output and remote branch SHA comparison.
