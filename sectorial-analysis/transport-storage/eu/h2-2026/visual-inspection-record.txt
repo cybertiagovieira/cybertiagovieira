@@ -1,0 +1,27 @@
+Visual inspection record - EU Transport & Storage Cyber-Risk Analysis
+Date: 15 September 2026
+Rendered source: eu-transport-storage-cyber-risk-analysis-h2-2026.pdf
+Inspection method: pdftoppm PNG render and manual review
+
+Slide 1 - Key Threats & Top 5 Cyber Attacks
+Result: PASS
+Observation: Exact title present. White field, dark text and emerald accent are present. Five threat rows are legible. Native bar chart is legible. Data period and curated-corpus limitation are visible. Source line is present. No clipped or overlapping elements observed.
+
+Slide 2 - Financial Impact: Transport & Storage
+Result: PASS
+Observation: Exact title present. Four-column pathway layout is legible. Limitation and no-loss-total decision boundary are visible. Source line is present. No clipped or overlapping elements observed.
+
+Slide 3 - Financial Impact: Worst-Case Scenarios
+Result: PASS
+Observation: Exact title present. Three scenario lanes are legible. Plausible-pathway boundary is visible in the header and each scenario. Required inputs and source line are present. No clipped or overlapping elements observed.
+
+Slide 4 - Case Study: Brussels Airport, Belgium: September 2025 disruption of Collins Aerospace passenger-processing services
+Result: PASS
+Observation: Exact title present. Timeline and observed/not-established matrix are legible. Evidence boundary and management lesson are visible. Source line is present. No clipped or overlapping elements observed.
+
+Slide 5 - Mitigation Strategies & Security Framework
+Result: PASS
+Observation: Exact title present. Five-pillar control framework is legible. Outcomes and committee challenge points are visible. Source line is present. No clipped or overlapping elements observed.
+
+Overall visual result: PASS
+Deck contains exactly five slides, uses the prescribed design system, maintains fixed headers and footers, and preserves readable text at governance presentation size.
